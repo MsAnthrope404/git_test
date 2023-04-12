@@ -1,1 +1,7 @@
-Why is this so difficult for me
+<!DOCTYPE html>
+<html lang="en"></html>
+<head>
+<meta charset="UTF -8">
+<title>My First Webpage</title>
+</head>
+</html>
